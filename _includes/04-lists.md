@@ -1,7 +1,12 @@
-<ol>
-    <li>This</li>
-    <li>Is an</li>
-    <li>Ordered list</li>
-      <li><a href="https://github.com">This is a link to GitHub!</a></li>
+Item 1
 
-    </ol>
+* Item 2
+
+  * Item 2a
+
+  * Item 2b
+
+Item 1
+Item 2
+Item 2a
+Item 2b
